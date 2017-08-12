@@ -2,7 +2,7 @@
 
 # Express Workshop
 
-## What is this?
+## What is this?$ npm init
 
 This is an introductory workshop to Node.js and Express. You'll be building your own platform to write, publish and save blog posts (a basic content management system, or CMS).
 
